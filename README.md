@@ -5,7 +5,8 @@ Used features:
 2. useContext()
 3. useGlobalContext()
 4. FetchAPI
-5. Local Storage with Dark Theme
+5. useFetch()
+6. Local Storage with Dark Theme ( checkbox checked property and theme-color saved local storage )
 
 
 Usage:
