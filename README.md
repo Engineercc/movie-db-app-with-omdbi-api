@@ -6,8 +6,7 @@ Used features:
 3. useGlobalContext()
 4. FetchAPI
 5. useFetch()
-6. Local Storage with Dark Theme ( checkbox checked property and theme-color saved local storage )
-
+6. Local Storage with Dark Theme ( checkbox checked property used with useState and theme-color saved local storage )
 
 Usage:
 1. First you should take api key on omdb movie API
