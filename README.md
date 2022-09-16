@@ -11,7 +11,8 @@ Used features:
 
 Usage:
 1. First you should take api key on omdb movie API
-2. Then paste your api key on given url
-3. Finally Run the npm install & npm start
+2. Create .env file in setup folder.
+3. add this code inside of .env file : REACT_APP_MOVIE_API_KEY= your_api_key 
+4. Finally Run the npm install & npm start
 
 Happy Hacking!! :-)
